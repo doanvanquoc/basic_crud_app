@@ -1,6 +1,6 @@
 # crud_app
 
-Một ứng dụng CRUD cơ bản, không có UI, sử dụng Firebase Database
+Một ứng dụng CRUD cơ bản, UI đơn giản, sử dụng Firestore Database
 
 ## Getting Started
 
