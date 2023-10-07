@@ -1,6 +1,6 @@
 # crud_app
 
-A new Flutter project.
+Một ứng dụng CRUD cơ bản, không có UI, sử dụng Firebase Database
 
 ## Getting Started
 
