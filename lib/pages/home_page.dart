@@ -83,7 +83,7 @@ class _HomePageState extends State<HomePage> {
           }
           //if no data return nothing :))
           else {
-            return const Text('No thing.....');
+            return const Center(child: Text('Waiting for notes.....'));
           }
         },
       ),
